@@ -10,4 +10,6 @@ function App({ Component }) {
       <Component />
     </ChakraProvider>
   )
+  
+  //3. end of function
 }
