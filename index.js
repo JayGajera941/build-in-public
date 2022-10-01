@@ -8,8 +8,7 @@ function App({ Component }) {
   return (
     <ChakraProvider>
       <Component />
+      <main />
     </ChakraProvider>
   )
-  
-  //3. end of function
 }
